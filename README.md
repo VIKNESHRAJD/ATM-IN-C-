@@ -23,4 +23,34 @@ User Interface: Uses ANSI-style colors for a more user-friendly experience.
 Technologies Used
 C++
 ANSI Escape Codes for coloring the terminal output
-# Getting Started
+
+# SOFTWARE TOOL
+Eclipse IDE
+
+# Usage
+Upon running the program, you will be greeted with a welcome message and asked to enter a PIN.
+You can access the following functionalities after successful login:
+Balance Enquiry: Check your current balance.
+Withdrawal: Withdraw money if the balance is sufficient.
+Deposit: Add money to your balance.
+Change PIN: Update your PIN.
+Mobile Banking: View instructions on mobile banking security.
+Exit the ATM session after performing your transactions.
+PIN Hint
+The default PIN is set to 2004. You can change this within the program after logging in.
+
+# Contributing
+If you'd like to contribute to this project:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Make your changes and commit (git commit -m 'Add new feature').
+Push to the branch (git push origin feature-branch).
+Create a Pull Request.
+License
+This project is licensed under the MIT License.
+
+# Contact
+Author: Vikneshraj D
+Feel free to reach out me vikneshraj2004@gmail/com
+
