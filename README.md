@@ -1,16 +1,7 @@
 # ATM Simulator in C++
-Table of Contents
-  Introduction
-  Project Overview
-  Features
-  Software Tool
-  Code Details
-  Installation
-  Usage
-  Contributing
-  License
-  Contact
-  
+![image](https://github.com/user-attachments/assets/323d3c1e-e39a-475b-9327-55f9231834b6)
+![image](https://github.com/user-attachments/assets/25e42087-610c-40fd-9119-e3773e223008)
+![image](https://github.com/user-attachments/assets/ba19608f-52ce-4898-8c58-25b5977123a6)
 # Introduction
 This is a simple ATM Simulator program developed in C++ with ANSI-style graphics for command line output. The project simulates basic ATM functionalities like balance enquiry, withdrawal, deposit, PIN change, and mobile banking instructions. This project is an interactive terminal-based program that demonstrates basic C++ object-oriented programming concepts.
 
